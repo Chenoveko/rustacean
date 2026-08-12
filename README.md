@@ -22,13 +22,18 @@ Rust's type system, scalar and compound data types, type casting, methods, math 
 
 📁 [`data_types`](./data_types)
 
+### 4. Functions
+
+Parameters/arguments, explicit/implicit return values, unit as a return type and statements vs expressions.
+
+📁 [`functions`](./functions)
+
 ---
 
 ## 🚀 Upcoming Topics
 
 This repository will continue to grow as I progress through Rust.
 
-* Functions
 * Control Flow
 * Ownership
 * References and Borrowing

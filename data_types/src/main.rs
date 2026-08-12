@@ -247,6 +247,9 @@ fn main() {
         A generic is a type parameter that allows code to work
         with different types while preserving type safety.
 
+        Is a placeholder for a future type much like a parameter is a placeholder
+        for a future value.
+
         Range<T> is generic:
             - Range<i32>  -> T is i32
             - Range<char> -> T is char
