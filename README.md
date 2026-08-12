@@ -16,13 +16,18 @@ Variables, mutability, constants, and shadowing.
 
 📁 [`variables_and_mutability`](./variables_and_mutability)
 
+### 3. Data Types
+
+Rust's type system, scalar and compound data types, type casting, methods, math operators, formatting/debugging, traits and generics.
+
+📁 [`data_types`](./data_types)
+
 ---
 
 ## 🚀 Upcoming Topics
 
 This repository will continue to grow as I progress through Rust.
 
-* Data Types
 * Functions
 * Control Flow
 * Ownership
