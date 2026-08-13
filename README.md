@@ -36,7 +36,7 @@ if, else if, else, match, loop, break, continue, while loops and recursion
 
 ### 6. Ownership
 
-if, else if, else, match, loop, break, continue, while loops and recursion
+if, else if, else, match, refactoring, loop, break, continue, while loops and recursion
 
 📁 [`ownership`](./ownership)
 
