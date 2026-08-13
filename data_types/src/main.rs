@@ -1,12 +1,11 @@
+#![allow(unused_variables)]
 use std::ops::Range;
 use std::ops::RangeInclusive;
-
 /*
     - Rust is statically typed
     - The compiler can infer the types of variables based on their initial assignments
     - Scalar type holds a single value -> integers, floats, bools and characters
 */
-#[allow(unused_variables)]
 fn main() {
     // ============================================================
     // Integers (Signed and Unsigned)

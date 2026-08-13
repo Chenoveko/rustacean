@@ -28,14 +28,24 @@ Parameters/arguments, explicit/implicit return values, unit as a return type and
 
 📁 [`functions`](./functions)
 
+### 5. Control Flow
+
+if, else if, else, match, loop, break, continue, while loops and recursion
+
+📁 [`control_flow`](./control_flow)
+
+### 6. Ownership
+
+if, else if, else, match, loop, break, continue, while loops and recursion
+
+📁 [`ownership`](./ownership)
+
 ---
 
 ## 🚀 Upcoming Topics
 
 This repository will continue to grow as I progress through Rust.
 
-* Control Flow
-* Ownership
 * References and Borrowing
 * Structs
 * Enums
