@@ -1,30 +1,30 @@
 # 🦀 Rustacean
 
-A personal repository for learning **Rust** from scratch through concepts, examples, and exercises in a progressive way.
+A personal repository for learning **Rust** from scratch through concepts, examples, and exercises in a progressive way
 
 ## 📚 Table of Contents
 
 ### 1. Introduction
 
-Basic concepts to get started with Rust.
+Basic concepts to get started with Rust
 
 📁 [`introduction`](./introduction)
 
 ### 2. Variables and Mutability
 
-Variables, mutability, constants, and shadowing.
+Variables, mutability, constants, and shadowing
 
 📁 [`variables_and_mutability`](./variables_and_mutability)
 
 ### 3. Data Types
 
-Rust's type system, scalar and compound data types, type casting, methods, math operators, formatting/debugging, traits and generics.
+Rust's type system, scalar and compound data types, type casting, methods, math operators, formatting/debugging, traits and generics
 
 📁 [`data_types`](./data_types)
 
 ### 4. Functions
 
-Parameters/arguments, explicit/implicit return values, unit as a return type and statements vs expressions.
+Parameters/arguments, explicit/implicit return values, unit as a return type and statements vs expressions
 
 📁 [`functions`](./functions)
 
@@ -36,24 +36,26 @@ if, else if, else, match, loop, break, continue, while loops and recursion
 
 ### 6. Ownership
 
-if, else if, else, match, refactoring, loop, break, continue, while loops and recursion
+scope/ownership, copy trait, move, drop, clone, references/borrowing, dereference operator, strings types, copy trait with references, ownership with function parameters, mutable parameters and return values
 
 📁 [`ownership`](./ownership)
+
+### 7. References and Borrowing
+
+hhh
+
+📁 [`references_and_borrowing`](./references_and_borrowing)
 
 ---
 
 ## 🚀 Upcoming Topics
 
-This repository will continue to grow as I progress through Rust.
+This repository will continue to grow as I progress through Rust
 
-* References and Borrowing
+* Slices
 * Structs
 * Enums
-* Collections
-* Error Handling
 * Generics
-* Traits
-* Lifetimes
 
 ## 🛠️ Technologies
 
@@ -62,4 +64,4 @@ This repository will continue to grow as I progress through Rust.
 
 ## 🎯 Goal
 
-The goal of this repository is to document my progress while learning Rust and keep practical examples of each concept that I can use as a reference in the future.
+The goal of this repository is to document my progress while learning Rust and keep practical examples of each concept that I can use as a reference in the future
