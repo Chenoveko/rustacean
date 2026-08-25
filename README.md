@@ -46,13 +46,18 @@ Immutable/mutable references, ownership with immutable/mutable references, dangl
 
 📁 [`references_and_borrowing`](./references_and_borrowing)
 
+### 8. Slices
+
+In progress
+
+📁 [`slices`](./slices)
+
 ---
 
 ## 🚀 Upcoming Topics
 
 This repository will continue to grow as I progress through Rust
 
-* Slices
 * Structs
 * Enums
 * Generics
