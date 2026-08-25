@@ -42,7 +42,7 @@ scope/ownership, copy trait, move, drop, clone, references/borrowing, dereferenc
 
 ### 7. References and Borrowing
 
-hhh
+In progress
 
 📁 [`references_and_borrowing`](./references_and_borrowing)
 
@@ -56,6 +56,19 @@ This repository will continue to grow as I progress through Rust
 * Structs
 * Enums
 * Generics
+* Option and Result Enums
+* Vectors
+* Project Structure
+* Strings
+* HashMaps
+* Error Handling
+* Traits
+* Lifetimes
+* Closures
+* Iterators
+* Testing
+* Famous Crates: rand, chrono, regex, tokyo, etc
+* Smart Pointers
 
 ## 🛠️ Technologies
 
