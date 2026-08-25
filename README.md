@@ -42,7 +42,7 @@ scope/ownership, copy trait, move, drop, clone, references/borrowing, dereferenc
 
 ### 7. References and Borrowing
 
-In progress
+Immutable/mutable references, ownership with immutable/mutable references, dangling references in Rust and ownership with arrays and tuples
 
 📁 [`references_and_borrowing`](./references_and_borrowing)
 
