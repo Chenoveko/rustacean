@@ -48,9 +48,15 @@ Immutable/mutable references, ownership with immutable/mutable references, dangl
 
 ### 8. Slices
 
-In progress
+String slices from a string and string literals, string slice lengths, string slices as function parameters, deref coercion, array slices and mutable array slices
 
 📁 [`slices`](./slices)
+
+### 9. Structs
+
+In progress
+
+📁 [`structs`](./structs)
 
 ---
 
@@ -58,7 +64,6 @@ In progress
 
 This repository will continue to grow as I progress through Rust
 
-* Structs
 * Enums
 * Generics
 * Option and Result Enums
@@ -83,3 +88,13 @@ This repository will continue to grow as I progress through Rust
 ## 🎯 Goal
 
 The goal of this repository is to document my progress while learning Rust and keep practical examples of each concept that I can use as a reference in the future
+
+## 📖 Sources and Bibliography
+
+This repository is based on the following learning resources:
+
+1. Paskhaver, Boris. *Learn to Code with Rust*. Udemy.  
+   Available at: [udemy.com/course/learn-to-code-with-rust](https://www.udemy.com/course/learn-to-code-with-rust/).
+
+2. Google. *Comprehensive Rust*. Google.  
+   Available at: [google.github.io/comprehensive-rust](https://google.github.io/comprehensive-rust/).
