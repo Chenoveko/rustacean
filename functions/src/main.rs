@@ -5,6 +5,8 @@
     - A return value is the output of a function
     - A unit is an empty tuple, a tuple without values
 */
+#![allow(dead_code)]
+#![allow(unused_variables)]
 
 // Intro to functions
 fn hello_world() {

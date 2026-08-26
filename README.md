@@ -54,7 +54,7 @@ String slices from a string and string literals, string slice lengths, string sl
 
 ### 9. Structs
 
-In progress
+Defining structs, instance it, structs fields, structs in functions, shorthand syntax, update syntax, methods, associated functions (constructor) and builder pattern.
 
 📁 [`structs`](./structs)
 
@@ -98,3 +98,6 @@ This repository is based on the following learning resources:
 
 2. Google. *Comprehensive Rust*. Google.  
    Available at: [google.github.io/comprehensive-rust](https://google.github.io/comprehensive-rust/).
+
+3. Rust Documentation. *Rust By Example*. Rust.  
+   Available at: [https://doc.rust-lang.org/rust-by-example/](https://doc.rust-lang.org/rust-by-example/)
