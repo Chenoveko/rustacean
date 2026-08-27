@@ -60,7 +60,7 @@ Defining structs, instance it, structs fields, structs in functions, shorthand s
 
 ### 10. Enums
 
-Defining enums, instance it, enums with associated values, struct variants, nesting enums in enums, match with enums, methods on enums and if let/ let else construct
+Defining enums, instance it, enums with associated values (tuple and struct variants), nesting enums in enums, match with enums, methods on enums and if let/ let else construct
 
 📁 [`enums`](./enums)
 
@@ -107,5 +107,8 @@ This repository is based on the following learning resources:
 3. Android team at Google. *Comprehensive Rust*. Google.  
    Available at: [google.github.io/comprehensive-rust](https://google.github.io/comprehensive-rust/).
 
-4. Rust team. *Rust By Example*. Rust Documentation.  
+4. Rust Community. *The Rust Programming Language*. Rust Web Page.  
+   Available at: [rust-lang.org/rust-by-example/](https://doc.rust-lang.org/book/)
+
+5. Rust Community. *Rust By Example*. Rust Web Page.  
    Available at: [rust-lang.org/rust-by-example/](https://doc.rust-lang.org/rust-by-example/)

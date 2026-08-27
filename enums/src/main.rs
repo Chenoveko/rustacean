@@ -23,7 +23,7 @@ struct Card {
 }
 
 // ============================================================
-// Enum with Associated Values
+// Enum with Associated Values (tuple variant)
 // ============================================================
 
 #[derive(Debug)]
@@ -34,7 +34,7 @@ enum PaymentMethodType {
 }
 
 // ============================================================
-// Struct Variant
+// Enum with Associated Values (struct variant)
 // ============================================================
 // A struct variant stores associated data in fields rather than by position. Each piece of data has an associated name
 
@@ -206,7 +206,12 @@ fn main() {
     // ============================================================
     // if let construct
     // ============================================================
-    // The if let construct combines an if statement with a variable declaration
+    /* 
+        - The if let construct combines an if statement with a variable declaration
+        - The if let construct executes a block of code if there is a match against a specific enum variant
+        - The if let construct declares varaibles for the associated data. The block has access to the variables
+        - Declare the hardcoded enum variant on the left-hand side of the equal sign. Declare the dynamic value on the right-hand side
+    */
     enum GoatMilk {
         LowFat(u32),
         Whole,
