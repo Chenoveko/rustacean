@@ -101,8 +101,11 @@ This repository is based on the following learning resources:
 1. Paskhaver, Boris. *Learn to Code with Rust*. Udemy.  
    Available at: [udemy.com/course/learn-to-code-with-rust](https://www.udemy.com/course/learn-to-code-with-rust/).
 
-2. Android team at Google. *Comprehensive Rust*. Google.  
+2. Grider, Stephen. *Rust: The Complete Developers Guide*. Udemy.  
+   Available at: [udemy.com/course/rust-the-complete-developers-guide](https://www.udemy.com/course/rust-the-complete-developers-guide/).
+
+3. Android team at Google. *Comprehensive Rust*. Google.  
    Available at: [google.github.io/comprehensive-rust](https://google.github.io/comprehensive-rust/).
 
-3. Rust team. *Rust By Example*. Rust Documentation.  
-   Available at: [https://doc.rust-lang.org/rust-by-example/](https://doc.rust-lang.org/rust-by-example/)
+4. Rust team. *Rust By Example*. Rust Documentation.  
+   Available at: [rust-lang.org/rust-by-example/](https://doc.rust-lang.org/rust-by-example/)
