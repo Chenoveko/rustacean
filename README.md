@@ -54,9 +54,15 @@ String slices from a string and string literals, string slice lengths, string sl
 
 ### 9. Structs
 
-Defining structs, instance it, structs fields, structs in functions, shorthand syntax, update syntax, methods, associated functions (constructor) and builder pattern.
+Defining structs, instance it, structs fields, structs in functions, shorthand syntax, update syntax, methods, associated functions (constructor) and builder pattern
 
 📁 [`structs`](./structs)
+
+### 10. Enums
+
+Defining enums, instance it, enums with associated values, struct variants, nesting enums in enums, match with enums, methods on enums and if let/ let else construct
+
+📁 [`enums`](./enums)
 
 ---
 
@@ -64,7 +70,6 @@ Defining structs, instance it, structs fields, structs in functions, shorthand s
 
 This repository will continue to grow as I progress through Rust
 
-* Enums
 * Generics
 * Option and Result Enums
 * Vectors
@@ -96,8 +101,8 @@ This repository is based on the following learning resources:
 1. Paskhaver, Boris. *Learn to Code with Rust*. Udemy.  
    Available at: [udemy.com/course/learn-to-code-with-rust](https://www.udemy.com/course/learn-to-code-with-rust/).
 
-2. Google. *Comprehensive Rust*. Google.  
+2. Android team at Google. *Comprehensive Rust*. Google.  
    Available at: [google.github.io/comprehensive-rust](https://google.github.io/comprehensive-rust/).
 
-3. Rust Documentation. *Rust By Example*. Rust.  
+3. Rust team. *Rust By Example*. Rust Documentation.  
    Available at: [https://doc.rust-lang.org/rust-by-example/](https://doc.rust-lang.org/rust-by-example/)

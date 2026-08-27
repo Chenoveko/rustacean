@@ -5,12 +5,12 @@
 // Define a Struct
 // ============================================================
 /*
-A struct (structure) is a container for related pieces of data. Similar to an object in POO
+A struct (structure) is a container for related pieces of data. Similar to an object in POO. We use structs to model complex real-world types
 We use PascalCase for Structs names and snake_case for fields in the struct
 Rust has 3 kinds of structs:
-    - Named Field Structs (Most of the time)
-    - Tuple-Like Structs
-    - Unit-Like Structs
+    - Named Field Structs (assigns a name to each field)
+    - Tuple-Like Structs (assigns a position/orden to each field)
+    - Unit-Like Structs (has no fields)
 */
 #[derive(Debug)]
 struct Coffee {
