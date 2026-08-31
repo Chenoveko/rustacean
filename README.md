@@ -64,15 +64,30 @@ Defining enums, instance it, enums with associated values (tuple and struct vari
 
 📁 [`enums`](./enums)
 
+### 11. Generics
+
+Generics in functions, multiple generics, structs, methods
+
+📁 [`generics`](./generics)
+
+### 12. Option and Result Enums
+
+Option/Result enums, unwrap/expect methods, expect_or method, get method and match with enums
+
+📁 [`option_and_result_enums`](./option_and_result_enums)
+
+### 13. Vectors
+
+Option/Result enums, Option/Result enums methods, match with Option/Result enums and while let construct
+
+📁 [`vectors`](./vectors)
+
 ---
 
 ## 🚀 Upcoming Topics
 
 This repository will continue to grow as I progress through Rust
 
-* Generics
-* Option and Result Enums
-* Vectors
 * Project Structure
 * Strings
 * HashMaps
@@ -101,7 +116,7 @@ This repository is based on the following learning resources:
 1. Paskhaver, Boris. *Learn to Code with Rust*. Udemy.  
    Available at: [udemy.com/course/learn-to-code-with-rust](https://www.udemy.com/course/learn-to-code-with-rust/).
 
-2. Grider, Stephen. *Rust: The Complete Developers Guide*. Udemy.  
+2. Grider, Stephen. *Rust: The Complete Developer's Guide*. Udemy.  
    Available at: [udemy.com/course/rust-the-complete-developers-guide](https://www.udemy.com/course/rust-the-complete-developers-guide/).
 
 3. Android team at Google. *Comprehensive Rust*. Google.  
